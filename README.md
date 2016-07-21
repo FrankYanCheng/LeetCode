@@ -1,1 +1,1 @@
-LeetCode Trining
+LeetCode Training
